@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#2dd6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="#07060d"/>
+  <rect x="8" y="8" width="84" height="84" rx="18" fill="url(#g)"/>
+  <text x="50" y="64" font-family="Space Grotesk, sans-serif" font-size="34" font-weight="700" fill="#07060d" text-anchor="middle">NX</text>
+</svg>
