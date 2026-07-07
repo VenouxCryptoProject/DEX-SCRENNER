@@ -1,0 +1,13 @@
+{
+  "name": "NEXUS Terminal",
+  "short_name": "NEXUS",
+  "description": "Dashboard multi-aset global: crypto, forex, saham, komoditas & ekonomi dunia.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "orientation": "any",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
